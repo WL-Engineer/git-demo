@@ -30,6 +30,12 @@ public class MybatisTest {
         }
 
         //反正跑不通我也不知道为什么
+        //测试ideal
+        //no commit
 
+    }
+    @Test
+    public void test001() {
+        System.out.println("adsfas");
     }
 }
