@@ -6,7 +6,11 @@ public class GitDao {
     }
     public void test001() {
         System.out.println("为什么不行");
+        System.out.println("还是网络的原因");
+
+
     }
+
 
 
 }
