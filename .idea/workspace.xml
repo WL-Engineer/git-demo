@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3da8c6d-c646-41f8-bc3c-4e83e77c1716" name="Changes" comment="Create README.md">
-      <changelist_data name="WL-Engineer" email="96570533+wl-engineer@users.noreply.github.com" />
-      <change afterPath="$PROJECT_DIR$/mvn01/src/main/java/com/atguigu/dao/GitDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvn02/src/test/java/com/atguigu/test/MybatisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvn02/src/test/java/com/atguigu/test/MybatisTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvn01/src/main/java/com/atguigu/dao/GitDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvn01/src/main/java/com/atguigu/dao/GitDao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +24,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="WL-Engineer" />
         <option value="WL-Engineer &lt;96570533+wl-engineer@users.noreply.github.com&gt;" />
       </list>
     </option>
@@ -127,6 +125,14 @@
       <workItem from="1639444784339" duration="1554000" />
       <workItem from="1640242610233" duration="658000" />
     </task>
+    <task id="LOCAL-00001" summary="Create README.md">
+      <created>1640265162787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640265162787</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +143,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
