@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3da8c6d-c646-41f8-bc3c-4e83e77c1716" name="Changes" comment="" />
+    <list default="true" id="d3da8c6d-c646-41f8-bc3c-4e83e77c1716" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/mvn02/src/test/java/com/atguigu/test/MybatisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvn02/src/test/java/com/atguigu/test/MybatisTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="22E0g2o2EZ0gkb2EYrNRGj9aHmV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -97,6 +103,7 @@
       <workItem from="1639387548134" duration="5082000" />
       <workItem from="1639399346831" duration="9372000" />
       <workItem from="1639444784339" duration="1554000" />
+      <workItem from="1640242610233" duration="658000" />
     </task>
     <servers />
   </component>

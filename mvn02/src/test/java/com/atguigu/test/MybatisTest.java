@@ -29,7 +29,7 @@ public class MybatisTest {
             openSession.close();
         }
 
-
+        //反正跑不通我也不知道为什么
 
     }
 }
