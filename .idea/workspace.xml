@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3da8c6d-c646-41f8-bc3c-4e83e77c1716" name="Changes" comment="Create README.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.25581396" />
     <property name="project.structure.side.proportion" value="0.24944071" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.gitee.ui.GiteeSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -131,6 +132,7 @@
       <workItem from="1639399346831" duration="9372000" />
       <workItem from="1639444784339" duration="1554000" />
       <workItem from="1640242610233" duration="658000" />
+      <workItem from="1640313850750" duration="1587000" />
     </task>
     <task id="LOCAL-00001" summary="Create README.md">
       <created>1640265162787</created>
@@ -202,7 +204,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640310061191</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Create README.md">
+      <created>1640313897294</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1640313897294</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Create README.md">
+      <created>1640314033279</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1640314033279</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
