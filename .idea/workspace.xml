@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3da8c6d-c646-41f8-bc3c-4e83e77c1716" name="Changes" comment="Create README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Helloword02/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +140,7 @@
       <workItem from="1639444784339" duration="1554000" />
       <workItem from="1640242610233" duration="658000" />
       <workItem from="1640313850750" duration="2873000" />
-      <workItem from="1640567492400" duration="2089000" />
+      <workItem from="1640567492400" duration="2272000" />
     </task>
     <task id="LOCAL-00001" summary="Create README.md">
       <created>1640265162787</created>
@@ -248,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640567749050</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Create README.md">
+      <created>1640693136664</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1640693136664</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
