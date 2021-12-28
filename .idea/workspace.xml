@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3da8c6d-c646-41f8-bc3c-4e83e77c1716" name="Changes" comment="Create README.md">
-      <change afterPath="$PROJECT_DIR$/Helloword02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Helloword02/src/main/resources/EmployeeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Helloword02/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Helloword02/src/test/java/com/atguigu/MybatisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Helloword02/src/test/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Helloword02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Helloword02/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Helloword02/src/main/java/com/atguigu/mybatis/bean/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Helloword02/src/main/java/com/atguigu/mybatis/bean/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Tag Library Descriptor" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Tag Library Descriptor" />
       </list>
     </option>
   </component>
@@ -50,6 +56,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -71,7 +78,7 @@
       <recent name="D:\javawork\MyBatis\mvn01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GitDao">
+  <component name="RunManager" selected="JUnit.MybatisTest.MybatisTest">
     <configuration name="GitDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.atguigu.dao.GitDao" />
       <module name="mvn01" />
@@ -81,6 +88,38 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Helloword02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.DemoTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.MybatisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Helloword02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.MybatisTest" />
+      <option name="METHOD_NAME" value="MybatisTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MybatisTest.MybatisTest" />
+        <item itemvalue="JUnit.DemoTest.test01" />
         <item itemvalue="JUnit.TestDemo.test01" />
         <item itemvalue="JUnit.MybatisTest.test" />
         <item itemvalue="Application.GitDao" />
-        <item itemvalue="Application.GitDao" />
-        <item itemvalue="JUnit.MybatisTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +179,8 @@
       <workItem from="1639444784339" duration="1554000" />
       <workItem from="1640242610233" duration="658000" />
       <workItem from="1640313850750" duration="2873000" />
-      <workItem from="1640567492400" duration="2272000" />
+      <workItem from="1640567492400" duration="3030000" />
+      <workItem from="1640694097006" duration="3043000" />
     </task>
     <task id="LOCAL-00001" summary="Create README.md">
       <created>1640265162787</created>
@@ -254,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640693136664</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Create README.md">
+      <created>1640693591310</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1640693591310</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
